@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1729692110494" clover="3.2.0">
+  <project timestamp="1729692110494" name="All files">
+    <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0" elements="10" coveredelements="2" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="utils.js" path="/Users/dam128/Desktop/Projects/BdayVault/js/utils.js">
+      <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
